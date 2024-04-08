@@ -17,10 +17,11 @@ On a personal level, I have a love for travel and outdoor activities, and I enjo
 
 Career History
 ---
-***Bioinformatics analyst*** 
+**Bioinformatics analyst** 
 
 Sichuan Jaswell Technology Co., Ltd. - Chengdu, Sichuan Province, China: October 2023 〜 Now
 
+***Bulk Data Analysis:***
 Mining Information from GEO and TCGA Databases: \
 • Conducting data mining in GEO (Gene Expression Omnibus) and TCGA (The Cancer Genome Atlas) databases to extract relevant biomedical data. \
 Differential Expression Analysis and WGCNA: \
@@ -35,8 +36,19 @@ Gene Selection using Machine Learning Algorithms: \
 • Using Receiver Operating Characteristic (ROC) curve analysis to validate the selected genes and assess their potential as biomarkers. \
 Survival Analysis: \
 • Performing survival analysis on selected genes to explore the correlation between these genes and patient prognosis. 
+***Single-Cell Data Analysis:***
+Mining Information from GEO:  \
+• Conducting data mining in GEO (Gene Expression Omnibus) to extract relevant biomedical data. \
+Single-Cell Data Preprocessing: \
+• Standardizing single-cell data to ensure comparability across samples and experiments. \
+• Removing cell cycle effects and batch effects from single-cell data to improve data quality and reliability. \
+Cell Annotation and Proportion Analysis: \
+• Performing cell annotation to identify and annotate cell types within single-cell datasets. \
+• Analyzing cell proportions and conducting cell ratio analysis to understand cellular composition changes in different conditions or sample types. \
+Pathway Analysis at the Single-Cell Level: \
+• Conducting pathway analysis at the single-cell level to elucidate cell-specific molecular pathways and mechanisms. \
 
-***Cell culture technician*** 
+**Cell culture technician** 
 
 Chengdu Yuanzhong Beike Medical Technology Co., Ltd. - Chengdu, Sichuan Province, China: April 2023 ~ May 2023 
 
@@ -48,7 +60,7 @@ Preparation and Optimization of NK Cells and CIK Cells: \
 • I developed and optimized the cell culture and preparation process, which improved the production quantity and quality of cells, ensuring that the cell viability and purity met the experimental requirements. \
 • I regularly collaborated with the scientific research team to adjust and optimize the cell preparation process based on the demands of the experiments. 
 
-***Technical Support Engineer*** 
+**Technical Support Engineer** 
 
 Shanghai Berger Medical Technology Co., Ltd. - Chengdu, Sichuan Province, China: August 2022 ~ January 2023 
 
