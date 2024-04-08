@@ -21,8 +21,8 @@ Bioinformatics analyst
 ===
 Sichuan Jaswell Technology Co., Ltd. - Chengdu, Sichuan Province, China: October 2023 〜 Now
 
-Mining Information from GEO and TCGA Databases:
-• Conducting data mining in GEO (Gene Expression Omnibus) and TCGA (The Cancer Genome Atlas) databases to extract relevant biomedical data.
+Mining Information from GEO and TCGA Databases: \
+• Conducting data mining in GEO (Gene Expression Omnibus) and TCGA (The Cancer Genome Atlas) databases to extract relevant biomedical data. \
 Differential Expression Analysis and WGCNA:
 • Performing differential expression analysis on bulk RNA sequencing data to identify genes with significant expression differences between conditions or sample types.
 • Carrying out Weighted Gene Co-expression Network Analysis (WGCNA) to uncover patterns and network structures of gene co-expression.
