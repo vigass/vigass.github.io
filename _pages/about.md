@@ -21,7 +21,7 @@ Career History
 Sichuan Jaswell Technology Co., Ltd. - Chengdu, Sichuan Province, China \
 October 2023 〜 Now
 
-***Bulk Data Analysis:*** 
+***Bulk Data Analysis:*** \
 Mining Information from GEO and TCGA Databases: \
 • Conducting data mining in GEO (Gene Expression Omnibus) and TCGA (The Cancer Genome Atlas) databases to extract relevant biomedical data. \
 Differential Expression Analysis and WGCNA: \
