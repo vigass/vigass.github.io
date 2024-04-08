@@ -33,7 +33,7 @@ Differential Expression Analysis and WGCNA: \
 • Using identified genes to construct PPI networks, analyzing protein interactions and their importance in biological processes. \
 4. Gene Selection using Machine Learning Algorithms: \
 • Applying machine learning algorithms to select genes with potential biomedical significance. Validation with ROC Curves: \
-• Using Receiver Operating Characteristic (ROC) curve analysis to validate the selected genes and assess their potential as biomarkers. \
+• Using Receiver Operating Characteristic (ROC) curve analysis to validate the selected genes and assess their potential as biomarkers. 
 5. Survival Analysis: 
 • Performing survival analysis on selected genes to explore the correlation between these genes and patient prognosis.  \
 ***Single-Cell Data Analysis:*** \
