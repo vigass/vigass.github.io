@@ -47,6 +47,7 @@ Cell Annotation and Proportion Analysis: \
 • Analyzing cell proportions and conducting cell ratio analysis to understand cellular composition changes in different conditions or sample types. \
 Pathway Analysis at the Single-Cell Level: \
 • Conducting pathway analysis at the single-cell level to elucidate cell-specific molecular pathways and mechanisms. 
+
 ===
 **Cell culture technician:** \
 Chengdu Yuanzhong Beike Medical Technology Co., Ltd. - Chengdu, Sichuan Province, China \
@@ -59,6 +60,7 @@ Preparation and Optimization of NK Cells and CIK Cells: \
 • I was responsible for the preparation of NK cells and CIK cells, including their culture, proliferation, separation, and purification. \
 • I developed and optimized the cell culture and preparation process, which improved the production quantity and quality of cells, ensuring that the cell viability and purity met the experimental requirements. \
 • I regularly collaborated with the scientific research team to adjust and optimize the cell preparation process based on the demands of the experiments. 
+
 ===
 **Technical Support Engineer:** \
 Shanghai Berger Medical Technology Co., Ltd. - Chengdu, Sichuan Province, China \
@@ -69,5 +71,6 @@ Technical Support Engineer: \
 • Applied extensive knowledge and practical skills in PCR to efficiently resolve complex technical issues, enhancing experiment accuracy and efficiency. \
 • Engaged closely with clients to understand their needs and problems, offering tailored solutions that resulted in high customer satisfaction. \
 • Collaborated with the research and development team in the creation and improvement of new products, ensuring reagent performance met market demands.  \
+
 ===
 ---
