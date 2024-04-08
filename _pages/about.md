@@ -18,7 +18,7 @@ On a personal level, I have a love for travel and outdoor activities, and I enjo
 Career History
 ======
 Bioinformatics analyst
-
+##
 Sichuan Jaswell Technology Co., Ltd. - Chengdu, Sichuan Province, China
 
 October 2023 〜 Now
@@ -52,7 +52,7 @@ Survival Analysis:
 
 ---
 Cell culture technician
-
+##
 Chengdu Yuanzhong Beike Medical Technology Co., Ltd. - Chengdu, Sichuan Province, China
 
 April 2023 ~ May 2023
@@ -73,7 +73,7 @@ Preparation and Optimization of NK Cells and CIK Cells:
 
 ---
 Technical Support Engineer
-
+##
 Shanghai Berger Medical Technology Co., Ltd. - Chengdu, Sichuan Province, China
 
 August 2022 ~ January 2023
