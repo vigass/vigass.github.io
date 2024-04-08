@@ -18,7 +18,7 @@ On a personal level, I have a love for travel and outdoor activities, and I enjo
 Career History
 ======
 Bioinformatics analyst
-##
+###
 Sichuan Jaswell Technology Co., Ltd. - Chengdu, Sichuan Province, China
 
 October 2023 〜 Now
