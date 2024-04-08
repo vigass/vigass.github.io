@@ -21,12 +21,12 @@ Career History
 
 Sichuan Jaswell Technology Co., Ltd. - Chengdu, Sichuan Province, China: October 2023 〜 Now
 
-Mining Information from GEO and TCGA Databases: \
+## Mining Information from GEO and TCGA Databases: \
 • Conducting data mining in GEO (Gene Expression Omnibus) and TCGA (The Cancer Genome Atlas) databases to extract relevant biomedical data. \
 Differential Expression Analysis and WGCNA: \
 • Performing differential expression analysis on bulk RNA sequencing data to identify genes with significant expression differences between conditions or sample types.\
 • Carrying out Weighted Gene Co-expression Network Analysis (WGCNA) to uncover patterns and network structures of gene co-expression. \
-Gene Enrichment Analysis: \
+## Gene Enrichment Analysis: \
 • Conducting enrichment analysis of identified genes to explore their potential roles in biological processes, pathways, or diseases. \
 Building Protein-Protein Interaction (PPI) Networks: \
 • Using identified genes to construct PPI networks, analyzing protein interactions and their importance in biological processes. \
@@ -39,7 +39,8 @@ Survival Analysis: \
 ***Cell culture technician*** 
 
 Chengdu Yuanzhong Beike Medical Technology Co., Ltd. - Chengdu, Sichuan Province, China: April 2023 ~ May 2023 \
-Optimization of Material Stocking: \
+
+## Optimization of Material Stocking: \
 • To ensure continuous supply and efficient use of materials necessary in the laboratory, we successfully implemented the optimization management of material stocking through precise forecasting and timely replenishment. \
 • We introduced an advanced inventory management system to enhance the transparency and traceability of material management, reduce waste, and ensure the quality of materials. \
 Preparation and Optimization of NK Cells and CIK Cells: \
@@ -50,7 +51,8 @@ Preparation and Optimization of NK Cells and CIK Cells: \
 ***Technical Support Engineer*** 
 
 Shanghai Berger Medical Technology Co., Ltd. - Chengdu, Sichuan Province, China: August 2022 ~ January 2023 \
-Technical Support Engineer
+
+## Technical Support Engineer
 • Provided expert technical support and consultation services for PCR reagents to customers, addressing their unique requirements and challenges. \
 • Applied extensive knowledge and practical skills in PCR to efficiently resolve complex technical issues, enhancing experiment accuracy and efficiency. \
 • Engaged closely with clients to understand their needs and problems, offering tailored solutions that resulted in high customer satisfaction. \
