@@ -27,7 +27,7 @@ author:
   bio              : "Bioinformation analysis"
   location         : "China"
   employer         : "Hainan Tropical Ocean University"
-  Notion           : "https://www.notion.so/RNA-seq-0ab2e58a344e41f5bd9591f250211234"
+  #Notion           : "https://www.notion.so/RNA-seq-0ab2e58a344e41f5bd9591f250211234"
   email            : "1636770513@qq.com" 
 
   # Academic websites
@@ -37,6 +37,7 @@ author:
   #orcid            : "http://orcid.org/yourorcidurl"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #researchgate     : # URL
+  Notion           : "https://www.notion.so/RNA-seq-0ab2e58a344e41f5bd9591f250211234"
 
   # Repositories and software development
   #bitbucket        : # Username - Update with your username on the site
