@@ -35,7 +35,7 @@ Gene Selection using Machine Learning Algorithms: \
 • Applying machine learning algorithms to select genes with potential biomedical significance. Validation with ROC Curves: \
 • Using Receiver Operating Characteristic (ROC) curve analysis to validate the selected genes and assess their potential as biomarkers. \
 Survival Analysis: \
-• Performing survival analysis on selected genes to explore the correlation between these genes and patient prognosis. 
+• Performing survival analysis on selected genes to explore the correlation between these genes and patient prognosis. \
 ***Single-Cell Data Analysis:***
 Mining Information from GEO:  \
 • Conducting data mining in GEO (Gene Expression Omnibus) to extract relevant biomedical data. \
@@ -46,7 +46,7 @@ Cell Annotation and Proportion Analysis: \
 • Performing cell annotation to identify and annotate cell types within single-cell datasets. \
 • Analyzing cell proportions and conducting cell ratio analysis to understand cellular composition changes in different conditions or sample types. \
 Pathway Analysis at the Single-Cell Level: \
-• Conducting pathway analysis at the single-cell level to elucidate cell-specific molecular pathways and mechanisms. \
+• Conducting pathway analysis at the single-cell level to elucidate cell-specific molecular pathways and mechanisms. 
 
 **Cell culture technician** 
 
