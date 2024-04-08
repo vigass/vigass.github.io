@@ -7,14 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am originally from Sichuan, China, and I currently focus on transcriptomics in my profession. I have a very lively personality and bring energy to the workplace. Known for my serious and responsible attitude towards work, I approach my duties with care and dedication. With a solid understanding of molecular biology and genetics, I am able to effectively contribute in my field.
-
-My career goal is to contribute to the advancement of medicine and biotechnology through innovative research in molecular biology and genetics. I am passionate about leveraging my experiences and knowledge to generate new discoveries and solutions. I also believe in the importance of teamwork and collaboration in tackling challenges to achieve better outcomes.
-
-I strive for self-improvement and enhancing my expertise whenever possible. I am interested in new technologies and methodologies, and I stay updated with the latest information. I aim to maximize my abilities and demonstrate leadership in research and projects.
-
+I am originally from Sichuan, China, and I currently focus on transcriptomics in my profession. I have a very lively personality and bring energy to the workplace. Known for my serious and responsible attitude towards work, I approach my duties with care and dedication. With a solid understanding of molecular biology and genetics, I am able to effectively contribute in my field. \
+My career goal is to contribute to the advancement of medicine and biotechnology through innovative research in molecular biology and genetics. I am passionate about leveraging my experiences and knowledge to generate new discoveries and solutions. I also believe in the importance of teamwork and collaboration in tackling challenges to achieve better outcomes. \
+I strive for self-improvement and enhancing my expertise whenever possible. I am interested in new technologies and methodologies, and I stay updated with the latest information. I aim to maximize my abilities and demonstrate leadership in research and projects. \
 On a personal level, I have a love for travel and outdoor activities, and I enjoy exploring new cultures and the beauty of nature. I value a balanced lifestyle and aim to lead a fulfilling life both professionally and personally.
-
+ \
 Career History
 ---
 ***Bioinformatics analyst*** 
