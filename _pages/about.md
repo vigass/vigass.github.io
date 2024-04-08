@@ -34,7 +34,7 @@ Gene Selection using Machine Learning Algorithms: \
 • Applying machine learning algorithms to select genes with potential biomedical significance. Validation with ROC Curves: \
 • Using Receiver Operating Characteristic (ROC) curve analysis to validate the selected genes and assess their potential as biomarkers. \
 Survival Analysis: \
-• Performing survival analysis on selected genes to explore the correlation between these genes and patient prognosis. \
+• Performing survival analysis on selected genes to explore the correlation between these genes and patient prognosis. 
 
 Cell culture technician
 ===
@@ -45,7 +45,7 @@ Optimization of Material Stocking: \
 Preparation and Optimization of NK Cells and CIK Cells: \
 • I was responsible for the preparation of NK cells and CIK cells, including their culture, proliferation, separation, and purification. \
 • I developed and optimized the cell culture and preparation process, which improved the production quantity and quality of cells, ensuring that the cell viability and purity met the experimental requirements. \
-• I regularly collaborated with the scientific research team to adjust and optimize the cell preparation process based on the demands of the experiments. \
+• I regularly collaborated with the scientific research team to adjust and optimize the cell preparation process based on the demands of the experiments. 
 
 Technical Support Engineer \
 ===
@@ -54,4 +54,4 @@ Technical Support Engineer
 • Provided expert technical support and consultation services for PCR reagents to customers, addressing their unique requirements and challenges. \
 • Applied extensive knowledge and practical skills in PCR to efficiently resolve complex technical issues, enhancing experiment accuracy and efficiency. \
 • Engaged closely with clients to understand their needs and problems, offering tailored solutions that resulted in high customer satisfaction. \
-• Collaborated with the research and development team in the creation and improvement of new products, ensuring reagent performance met market demands. \
+• Collaborated with the research and development team in the creation and improvement of new products, ensuring reagent performance met market demands. 
