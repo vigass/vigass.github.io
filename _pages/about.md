@@ -68,6 +68,6 @@ Technical Support Engineer: \
 • Provided expert technical support and consultation services for PCR reagents to customers, addressing their unique requirements and challenges. \
 • Applied extensive knowledge and practical skills in PCR to efficiently resolve complex technical issues, enhancing experiment accuracy and efficiency. \
 • Engaged closely with clients to understand their needs and problems, offering tailored solutions that resulted in high customer satisfaction. \
-• Collaborated with the research and development team in the creation and improvement of new products, ensuring reagent performance met market demands.  \
+• Collaborated with the research and development team in the creation and improvement of new products, ensuring reagent performance met market demands.  
 
 ---
