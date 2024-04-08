@@ -48,7 +48,6 @@ Cell Annotation and Proportion Analysis: \
 Pathway Analysis at the Single-Cell Level: \
 • Conducting pathway analysis at the single-cell level to elucidate cell-specific molecular pathways and mechanisms. 
 
-===
 **Cell culture technician:** \
 Chengdu Yuanzhong Beike Medical Technology Co., Ltd. - Chengdu, Sichuan Province, China \
 April 2023 ~ May 2023 
@@ -61,7 +60,6 @@ Preparation and Optimization of NK Cells and CIK Cells: \
 • I developed and optimized the cell culture and preparation process, which improved the production quantity and quality of cells, ensuring that the cell viability and purity met the experimental requirements. \
 • I regularly collaborated with the scientific research team to adjust and optimize the cell preparation process based on the demands of the experiments. 
 
-===
 **Technical Support Engineer:** \
 Shanghai Berger Medical Technology Co., Ltd. - Chengdu, Sichuan Province, China \
 August 2022 ~ January 2023 
@@ -72,5 +70,4 @@ Technical Support Engineer: \
 • Engaged closely with clients to understand their needs and problems, offering tailored solutions that resulted in high customer satisfaction. \
 • Collaborated with the research and development team in the creation and improvement of new products, ensuring reagent performance met market demands.  \
 
-===
 ---
