@@ -23,19 +23,19 @@ Sichuan Jaswell Technology Co., Ltd. - Chengdu, Sichuan Province, China: October
 
 Mining Information from GEO and TCGA Databases: \
 • Conducting data mining in GEO (Gene Expression Omnibus) and TCGA (The Cancer Genome Atlas) databases to extract relevant biomedical data. \
-Differential Expression Analysis and WGCNA:
-• Performing differential expression analysis on bulk RNA sequencing data to identify genes with significant expression differences between conditions or sample types.
-• Carrying out Weighted Gene Co-expression Network Analysis (WGCNA) to uncover patterns and network structures of gene co-expression.
-Gene Enrichment Analysis:
-• Conducting enrichment analysis of identified genes to explore their potential roles in biological processes, pathways, or diseases.
-Building Protein-Protein Interaction (PPI) Networks:
-• Using identified genes to construct PPI networks, analyzing protein interactions and their importance in biological processes.
-Gene Selection using Machine Learning Algorithms:
-• Applying machine learning algorithms to select genes with potential biomedical significance. Validation with ROC Curves:
-• Using Receiver Operating Characteristic (ROC) curve analysis to validate the selected genes and assess their potential as biomarkers.
-Survival Analysis:
-• Performing survival analysis on selected genes to explore the correlation between these genes and patient prognosis.
----
+Differential Expression Analysis and WGCNA: \
+• Performing differential expression analysis on bulk RNA sequencing data to identify genes with significant expression differences between conditions or sample types.\
+• Carrying out Weighted Gene Co-expression Network Analysis (WGCNA) to uncover patterns and network structures of gene co-expression. \
+Gene Enrichment Analysis: \
+• Conducting enrichment analysis of identified genes to explore their potential roles in biological processes, pathways, or diseases. \
+Building Protein-Protein Interaction (PPI) Networks: \
+• Using identified genes to construct PPI networks, analyzing protein interactions and their importance in biological processes. \
+Gene Selection using Machine Learning Algorithms: \
+• Applying machine learning algorithms to select genes with potential biomedical significance. Validation with ROC Curves: \
+• Using Receiver Operating Characteristic (ROC) curve analysis to validate the selected genes and assess their potential as biomarkers. \
+Survival Analysis: \
+• Performing survival analysis on selected genes to explore the correlation between these genes and patient prognosis. \
+====
 Cell culture technician
 ##
 Chengdu Yuanzhong Beike Medical Technology Co., Ltd. - Chengdu, Sichuan Province, China
