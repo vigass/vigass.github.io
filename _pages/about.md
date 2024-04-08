@@ -18,57 +18,73 @@ On a personal level, I have a love for travel and outdoor activities, and I enjo
 Career History
 ======
 Bioinformatics analyst
+
 Sichuan Jaswell Technology Co., Ltd. - Chengdu, Sichuan Province, China
+
 October 2023 〜 Now
+
 Mining Information from GEO and TCGA Databases:
-• Conducting data mining in GEO (Gene Expression Omnibus) and TCGA (The Cancer Genome Atlas) databases
-to extract relevant biomedical data.
+• Conducting data mining in GEO (Gene Expression Omnibus) and TCGA (The Cancer Genome Atlas) databases to extract relevant biomedical data.
+
 Differential Expression Analysis and WGCNA:
-• Performing differential expression analysis on bulk RNA sequencing data to identify genes with
-significant expression differences between conditions or sample types.
-• Carrying out Weighted Gene Co-expression Network Analysis (WGCNA) to uncover patterns and network
-structures of gene co-expression.
+
+• Performing differential expression analysis on bulk RNA sequencing data to identify genes with significant expression differences between conditions or sample types.
+
+• Carrying out Weighted Gene Co-expression Network Analysis (WGCNA) to uncover patterns and network structures of gene co-expression.
+
 Gene Enrichment Analysis:
-• Conducting enrichment analysis of identified genes to explore their potential roles in biological
-processes, pathways, or diseases.
+
+• Conducting enrichment analysis of identified genes to explore their potential roles in biological processes, pathways, or diseases.
+
 Building Protein-Protein Interaction (PPI) Networks:
-• Using identified genes to construct PPI networks, analyzing protein interactions and their importance
-in biological processes.
+
+• Using identified genes to construct PPI networks, analyzing protein interactions and their importance in biological processes.
+
 Gene Selection using Machine Learning Algorithms:
-• Applying machine learning algorithms to select genes with potential biomedical significance.
-Validation with ROC Curves:
-• Using Receiver Operating Characteristic (ROC) curve analysis to validate the selected genes and assess
-their potential as biomarkers.
+
+• Applying machine learning algorithms to select genes with potential biomedical significance. Validation with ROC Curves:
+
+• Using Receiver Operating Characteristic (ROC) curve analysis to validate the selected genes and assess their potential as biomarkers.
+
 Survival Analysis:
-• Performing survival analysis on selected genes to explore the correlation between these genes and
-patient prognosis.
+
+• Performing survival analysis on selected genes to explore the correlation between these genes and patient prognosis.
+
 ---
 Cell culture technician
+
 Chengdu Yuanzhong Beike Medical Technology Co., Ltd. - Chengdu, Sichuan Province, China
+
 April 2023 ~ May 2023
+
 Optimization of Material Stocking:
-• To ensure continuous supply and efficient use of materials necessary in the laboratory, we successfully
-implemented the optimization management of material stocking through precise forecasting and timely
-replenishment.
-• We introduced an advanced inventory management system to enhance the transparency and traceability of
-material management, reduce waste, and ensure the quality of materials.
+
+• To ensure continuous supply and efficient use of materials necessary in the laboratory, we successfully implemented the optimization management of material stocking through precise forecasting and timely replenishment.
+
+• We introduced an advanced inventory management system to enhance the transparency and traceability of material management, reduce waste, and ensure the quality of materials.
+
 Preparation and Optimization of NK Cells and CIK Cells:
-• I was responsible for the preparation of NK cells and CIK cells, including their culture, proliferation,
-separation, and purification.
-• I developed and optimized the cell culture and preparation process, which improved the production quantity
-and quality of cells, ensuring that the cell viability and purity met the experimental requirements.
-• I regularly collaborated with the scientific research team to adjust and optimize the cell preparation
-process based on the demands of the experiments.
+
+• I was responsible for the preparation of NK cells and CIK cells, including their culture, proliferation, separation, and purification.
+
+• I developed and optimized the cell culture and preparation process, which improved the production quantity and quality of cells, ensuring that the cell viability and purity met the experimental requirements.
+
+• I regularly collaborated with the scientific research team to adjust and optimize the cell preparation process based on the demands of the experiments.
+
 ---
 Technical Support Engineer
+
 Shanghai Berger Medical Technology Co., Ltd. - Chengdu, Sichuan Province, China
+
 August 2022 ~ January 2023
+
 Technical Support Engineer
-• Provided expert technical support and consultation services for PCR reagents to customers, addressing
-their unique requirements and challenges.
-• Applied extensive knowledge and practical skills in PCR to efficiently resolve complex technical issues,
-enhancing experiment accuracy and efficiency.
-• Engaged closely with clients to understand their needs and problems, offering tailored solutions that
-resulted in high customer satisfaction.
-• Collaborated with the research and development team in the creation and improvement of new products,
-ensuring reagent performance met market demands.
+
+• Provided expert technical support and consultation services for PCR reagents to customers, addressing their unique requirements and challenges.
+
+• Applied extensive knowledge and practical skills in PCR to efficiently resolve complex technical issues, enhancing experiment accuracy and efficiency.
+
+• Engaged closely with clients to understand their needs and problems, offering tailored solutions that resulted in high customer satisfaction.
+
+• Collaborated with the research and development team in the creation and improvement of new products, ensuring reagent performance met market demands.
+
