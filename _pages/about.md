@@ -15,6 +15,7 @@ I strive for self-improvement and enhancing my expertise whenever possible. I am
 
 On a personal level, I have a love for travel and outdoor activities, and I enjoy exploring new cultures and the beauty of nature. I value a balanced lifestyle and aim to lead a fulfilling life both professionally and personally.
 
+---
 Career History
 ---
 **Bioinformatics analyst:** 
@@ -68,6 +69,6 @@ Technical Support Engineer: \
 • Provided expert technical support and consultation services for PCR reagents to customers, addressing their unique requirements and challenges. \
 • Applied extensive knowledge and practical skills in PCR to efficiently resolve complex technical issues, enhancing experiment accuracy and efficiency. \
 • Engaged closely with clients to understand their needs and problems, offering tailored solutions that resulted in high customer satisfaction. \
-• Collaborated with the research and development team in the creation and improvement of new products, ensuring reagent performance met market demands. 
+• Collaborated with the research and development team in the creation and improvement of new products, ensuring reagent performance met market demands.  \
 
 ---
