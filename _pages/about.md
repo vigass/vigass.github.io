@@ -1,49 +1,74 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am originally from Sichuan, China, and I currently focus on transcriptomics in my profession. I have a very lively personality and bring energy to the workplace. Known for my serious and responsible attitude towards work, I approach my duties with care and dedication. With a solid understanding of molecular biology and genetics, I am able to effectively contribute in my field.
 
-A data-driven personal website
+My career goal is to contribute to the advancement of medicine and biotechnology through innovative research in molecular biology and genetics. I am passionate about leveraging my experiences and knowledge to generate new discoveries and solutions. I also believe in the importance of teamwork and collaboration in tackling challenges to achieve better outcomes.
+
+I strive for self-improvement and enhancing my expertise whenever possible. I am interested in new technologies and methodologies, and I stay updated with the latest information. I aim to maximize my abilities and demonstrate leadership in research and projects.
+
+On a personal level, I have a love for travel and outdoor activities, and I enjoy exploring new cultures and the beauty of nature. I value a balanced lifestyle and aim to lead a fulfilling life both professionally and personally.
+
+Career History
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Bioinformatics analyst
+Sichuan Jaswell Technology Co., Ltd. - Chengdu, Sichuan Province, China
+October 2023 〜 Now
+Mining Information from GEO and TCGA Databases:
+• Conducting data mining in GEO (Gene Expression Omnibus) and TCGA (The Cancer Genome Atlas) databases
+to extract relevant biomedical data.
+Differential Expression Analysis and WGCNA:
+• Performing differential expression analysis on bulk RNA sequencing data to identify genes with
+significant expression differences between conditions or sample types.
+• Carrying out Weighted Gene Co-expression Network Analysis (WGCNA) to uncover patterns and network
+structures of gene co-expression.
+Gene Enrichment Analysis:
+• Conducting enrichment analysis of identified genes to explore their potential roles in biological
+processes, pathways, or diseases.
+Building Protein-Protein Interaction (PPI) Networks:
+• Using identified genes to construct PPI networks, analyzing protein interactions and their importance
+in biological processes.
+Gene Selection using Machine Learning Algorithms:
+• Applying machine learning algorithms to select genes with potential biomedical significance.
+Validation with ROC Curves:
+• Using Receiver Operating Characteristic (ROC) curve analysis to validate the selected genes and assess
+their potential as biomarkers.
+Survival Analysis:
+• Performing survival analysis on selected genes to explore the correlation between these genes and
+patient prognosis.
+---
+Cell culture technician
+Chengdu Yuanzhong Beike Medical Technology Co., Ltd. - Chengdu, Sichuan Province, China
+April 2023 ~ May 2023
+Optimization of Material Stocking:
+• To ensure continuous supply and efficient use of materials necessary in the laboratory, we successfully
+implemented the optimization management of material stocking through precise forecasting and timely
+replenishment.
+• We introduced an advanced inventory management system to enhance the transparency and traceability of
+material management, reduce waste, and ensure the quality of materials.
+Preparation and Optimization of NK Cells and CIK Cells:
+• I was responsible for the preparation of NK cells and CIK cells, including their culture, proliferation,
+separation, and purification.
+• I developed and optimized the cell culture and preparation process, which improved the production quantity
+and quality of cells, ensuring that the cell viability and purity met the experimental requirements.
+• I regularly collaborated with the scientific research team to adjust and optimize the cell preparation
+process based on the demands of the experiments.
+---
+Technical Support Engineer
+Shanghai Berger Medical Technology Co., Ltd. - Chengdu, Sichuan Province, China
+August 2022 ~ January 2023
+Technical Support Engineer
+• Provided expert technical support and consultation services for PCR reagents to customers, addressing
+their unique requirements and challenges.
+• Applied extensive knowledge and practical skills in PCR to efficiently resolve complex technical issues,
+enhancing experiment accuracy and efficiency.
+• Engaged closely with clients to understand their needs and problems, offering tailored solutions that
+resulted in high customer satisfaction.
+• Collaborated with the research and development team in the creation and improvement of new products,
+ensuring reagent performance met market demands.
