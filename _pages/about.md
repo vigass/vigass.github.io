@@ -18,7 +18,7 @@ On a personal level, I have a love for travel and outdoor activities, and I enjo
 Career History
 ---
 **Bioinformatics analyst:** 
-Sichuan Jaswell Technology Co., Ltd. - Chengdu, Sichuan Province, China: October 2023 〜 Now
+Sichuan Jaswell Technology Co., Ltd. - Chengdu, Sichuan Province, China - October 2023 〜 Now
 
 ***Bulk Data Analysis:***
 Mining Information from GEO and TCGA Databases: \
@@ -48,7 +48,7 @@ Pathway Analysis at the Single-Cell Level: \
 • Conducting pathway analysis at the single-cell level to elucidate cell-specific molecular pathways and mechanisms. 
 
 **Cell culture technician:** 
-Chengdu Yuanzhong Beike Medical Technology Co., Ltd. - Chengdu, Sichuan Province, China: April 2023 ~ May 2023 
+Chengdu Yuanzhong Beike Medical Technology Co., Ltd. - Chengdu, Sichuan Province, China - April 2023 ~ May 2023 
 
 Optimization of Material Stocking: \
 • To ensure continuous supply and efficient use of materials necessary in the laboratory, we successfully implemented the optimization management of material stocking through precise forecasting and timely replenishment. \
@@ -59,7 +59,7 @@ Preparation and Optimization of NK Cells and CIK Cells: \
 • I regularly collaborated with the scientific research team to adjust and optimize the cell preparation process based on the demands of the experiments. 
 
 **Technical Support Engineer:** 
-Shanghai Berger Medical Technology Co., Ltd. - Chengdu, Sichuan Province, China: August 2022 ~ January 2023 
+Shanghai Berger Medical Technology Co., Ltd. - Chengdu, Sichuan Province, China - August 2022 ~ January 2023 
 
 Technical Support Engineer
 • Provided expert technical support and consultation services for PCR reagents to customers, addressing their unique requirements and challenges. \
