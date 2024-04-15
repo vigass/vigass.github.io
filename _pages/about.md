@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am originally from Sichuan, China, and I currently focus on transcriptomics in my profession. I have a very lively personality and bring energy to the workplace. Known for my serious and responsible attitude towards work, I approach my duties with care and dedication. With a solid understanding of molecular biology and genetics, I am able to effectively contribute in my field.
+Originally from Sichuan, China, I currently specialize in transcriptomics and single-cell sequencing data analysis in my profession. I bring vibrancy and enthusiasm to the workplace, complemented by a reputation for diligence and responsibility in my approach to tasks. With a strong foundation in molecular biology and genetics, I make meaningful contributions within my field.
 
-My career goal is to contribute to the advancement of medicine and biotechnology through innovative research in molecular biology and genetics. I am passionate about leveraging my experiences and knowledge to generate new discoveries and solutions. I also believe in the importance of teamwork and collaboration in tackling challenges to achieve better outcomes.
+My career ambition is to advance medicine and biotechnology through pioneering research in molecular biology and genetics. I am dedicated to utilizing my expertise and experiences to drive innovation and uncover novel solutions. Recognizing the significance of collaboration, I prioritize teamwork to overcome challenges and achieve impactful results.
 
 I strive for self-improvement and enhancing my expertise whenever possible. I am interested in new technologies and methodologies, and I stay updated with the latest information. I aim to maximize my abilities and demonstrate leadership in research and projects.
 
